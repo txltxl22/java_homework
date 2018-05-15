@@ -32,4 +32,8 @@ public class Bullet extends flying {
         return false;
     }
 
+    public boolean shoot(){
+
+    }
+
 }
